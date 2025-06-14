@@ -29,14 +29,14 @@ The system has two main components:
 ## 📷 Screenshots
 
 <ins>Platform views:</ins>  
-![Login](./screenshots/Login.PNG)  
-![Dashboard](./screenshots/Dashboard.PNG)  
-![Patient List](./screenshots/Patient_List.PNG)
-![Add Patient](./screenshots/Add_Patient.PNG)  
-![Patient Profile](./screenshots/Patient_Profile.PNG)  
-![Schedule](./screenshots/Schedule.PNG)
-![Exercises List](./screenshots/Exercises_List.PNG)  
-![Launch Exercise on Headset](./screenshots/Launch_Exercise.PNG)  
+![Login](./public/screenshots/Login.PNG)  
+![Dashboard](./public/screenshots/Dashboard.PNG)  
+![Patient List](./public/screenshots/Patient_List.PNG)
+![Add Patient](./public/screenshots/Add_Patient.PNG)  
+![Patient Profile](./public/screenshots/Patient_Profile.PNG)  
+![Schedule](./public/screenshots/Schedule.PNG)
+![Exercises List](./public/screenshots/Exercises_List.PNG)  
+![Launch Exercise on Headset](./public/screenshots/Launch_Exercise.PNG)  
 
 ## 🎥 Demo
 
@@ -87,14 +87,14 @@ Le système est composé de deux éléments principaux :
 
 <ins>🌐 Interface Web (Plateforme médecin) :</ins>  
 
-![Connection](./screenshots/Login.PNG)  
-![Acceuil](./screenshots/Dashboard.PNG)  
-![Liste Patient](./screenshots/Patient_List.PNG)
-![Ajout Patient](./screenshots/Add_Patient.PNG)  
-![Profile Patient](./screenshots/Patient_Profile.PNG)  
-![Emploi du temps](./screenshots/Schedule.PNG)
-![Liste Exercises](./screenshots/Exercises_List.PNG)  
-![Commencer Exercice](./screenshots/Launch_Exercise.PNG)  
+![Login](./public/screenshots/Login.PNG)  
+![Dashboard](./public/screenshots/Dashboard.PNG)  
+![Patient List](./public/screenshots/Patient_List.PNG)
+![Add Patient](./public/screenshots/Add_Patient.PNG)  
+![Patient Profile](./public/screenshots/Patient_Profile.PNG)  
+![Schedule](./public/screenshots/Schedule.PNG)
+![Exercises List](./public/screenshots/Exercises_List.PNG)  
+![Launch Exercise on Headset](./public/screenshots/Launch_Exercise.PNG)  
 
 
 ## 🎥 Démo
