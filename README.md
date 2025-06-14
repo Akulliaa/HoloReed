@@ -1,7 +1,7 @@
 # HoloReed – Mixed Reality Rehabilitation Platform
 
 
-## 🇬🇧 English
+## English
 
 HoloReed is a multidisciplinary project that combines a web platform and mixed reality technologies to assist Parkinson's patients in their rehabilitation process. It was developed as part of an academic project at ESIGELEC.
 
@@ -58,7 +58,7 @@ The system has two main components:
 
 
 
-## 🇫🇷 Français
+## Français
 
 HoloReed est un projet académique combinant une plateforme web et des exercices en réalité mixte pour accompagner les patients atteints de la maladie de Parkinson dans leur rééducation.
 
